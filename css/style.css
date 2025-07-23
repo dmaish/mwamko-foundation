@@ -2959,7 +2959,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .video_bg_1 {
-  background-image: url(../img/banner/man.png);
+  background-image: url(../img/banner/mwamko-banner-2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2974,7 +2974,7 @@ h3 {
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_latest_activites.scss */
 .latest_activites_area .video_activite {
   position: absolute;
-  top: 0;
+  top: 10%;
   left: 0;
   width: 40%;
   bottom: 0;
