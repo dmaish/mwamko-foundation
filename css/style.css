@@ -1507,9 +1507,9 @@ h3 {
 /* line 20, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text > span {
   text-transform: capitalize;
-  font-size: 26px;
+  font-size: 24px;
   color: #fff;
-  font-weight: 600;
+  font-weight: 400;
   font-family: "Open Sans", sans-serif;
   display: block;
 }
@@ -2533,17 +2533,17 @@ h3 {
 
 /* line 1, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .breadcam_bg {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/mwamko-banner-2.jpg);
 }
 
 /* line 4, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .breadcam_bg_1 {
-  background-image: url(../img/banner/bradcam2.png);
+  background-image: url(../img/banner/banner/mwamko-banner.png);
 }
 
 /* line 7, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam3.png);
+  background-image: url(../img/banner/banner/mwamko-banner-2.jpg);
 }
 
 /* line 10, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_bradcam.scss */
@@ -4334,7 +4334,7 @@ h6 {
 .single-gallery-image {
   margin-top: 30px;
   background-repeat: no-repeat !important;
-  background-position: center center !important;
+  background-position: top top !important;
   background-size: cover !important;
   height: 200px;
 }
