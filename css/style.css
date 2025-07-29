@@ -329,8 +329,8 @@ h3 {
 
 /* line 209, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
 .section-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 /* line 213, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_theme-default.scss */
@@ -5647,7 +5647,7 @@ h6 {
 
 /* line 529, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .blog_details {
-  padding: 30px 0 20px 10px;
+  padding: 30px 20 20px 10px;
   box-shadow: 0px 10px 20px 0px rgba(221, 221, 221, 0.3);
 }
 
@@ -6042,7 +6042,7 @@ h6 {
 /* line 1049, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
 .single-post-area .blog_details {
   box-shadow: none;
-  padding: 0;
+  padding: 20!important;
 }
 
 /* line 1054, ../../Arafath/CL/january 2020/242. charity/HTML/scss/_blog.scss */
